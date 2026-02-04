@@ -14,8 +14,8 @@
   },
   "homepage": "https://github.com/seppevs/aws-s3-multipart-copy.git#readme",
   "dependencies": {
-    "@aws-sdk/client-s3": "^3.470.0",
-    "lodash": "^4.17.21"
+    "@aws-sdk/client-s3": "^3.982.0",
+    "lodash": "^4.17.23"
   },
   "devDependencies": {},
   "scripts": {
